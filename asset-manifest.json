@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ffdtimer-deploy/static/css/main.3733d140.chunk.css",
+    "main.js": "/ffdtimer-deploy/static/js/main.9b43808c.chunk.js",
+    "main.js.map": "/ffdtimer-deploy/static/js/main.9b43808c.chunk.js.map",
+    "runtime-main.js": "/ffdtimer-deploy/static/js/runtime-main.1e007ff2.js",
+    "runtime-main.js.map": "/ffdtimer-deploy/static/js/runtime-main.1e007ff2.js.map",
+    "static/css/2.95456d05.chunk.css": "/ffdtimer-deploy/static/css/2.95456d05.chunk.css",
+    "static/js/2.5d2d2304.chunk.js": "/ffdtimer-deploy/static/js/2.5d2d2304.chunk.js",
+    "static/js/2.5d2d2304.chunk.js.map": "/ffdtimer-deploy/static/js/2.5d2d2304.chunk.js.map",
+    "index.html": "/ffdtimer-deploy/index.html",
+    "static/css/2.95456d05.chunk.css.map": "/ffdtimer-deploy/static/css/2.95456d05.chunk.css.map",
+    "static/css/main.3733d140.chunk.css.map": "/ffdtimer-deploy/static/css/main.3733d140.chunk.css.map",
+    "static/js/2.5d2d2304.chunk.js.LICENSE.txt": "/ffdtimer-deploy/static/js/2.5d2d2304.chunk.js.LICENSE.txt",
+    "static/media/circle250.439011ca.png": "/ffdtimer-deploy/static/media/circle250.439011ca.png",
+    "static/media/welldone.b7666902.mp3": "/ffdtimer-deploy/static/media/welldone.b7666902.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e007ff2.js",
+    "static/css/2.95456d05.chunk.css",
+    "static/js/2.5d2d2304.chunk.js",
+    "static/css/main.3733d140.chunk.css",
+    "static/js/main.9b43808c.chunk.js"
+  ]
+}
