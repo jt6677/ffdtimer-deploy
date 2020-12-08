@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ffdtimer-deploy/static/css/main.3733d140.chunk.css",
-    "main.js": "/ffdtimer-deploy/static/js/main.f3b83667.chunk.js",
-    "main.js.map": "/ffdtimer-deploy/static/js/main.f3b83667.chunk.js.map",
+    "main.js": "/ffdtimer-deploy/static/js/main.bca5125c.chunk.js",
+    "main.js.map": "/ffdtimer-deploy/static/js/main.bca5125c.chunk.js.map",
     "runtime-main.js": "/ffdtimer-deploy/static/js/runtime-main.af1363a2.js",
     "runtime-main.js.map": "/ffdtimer-deploy/static/js/runtime-main.af1363a2.js.map",
     "static/css/2.95456d05.chunk.css": "/ffdtimer-deploy/static/css/2.95456d05.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.95456d05.chunk.css",
     "static/js/2.81a3ed60.chunk.js",
     "static/css/main.3733d140.chunk.css",
-    "static/js/main.f3b83667.chunk.js"
+    "static/js/main.bca5125c.chunk.js"
   ]
 }
